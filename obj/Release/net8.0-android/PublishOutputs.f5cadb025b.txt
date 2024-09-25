@@ -1,0 +1,4 @@
+/Users/diseno1academy/Downloads/im/speed/bin/Release/net8.0-android/publish/com.imporsuit.speed-Signed.aab
+/Users/diseno1academy/Downloads/im/speed/bin/Release/net8.0-android/publish/com.imporsuit.speed.aab
+/Users/diseno1academy/Downloads/im/speed/bin/Release/net8.0-android/publish/com.imporsuit.speed-Signed.apk
+/Users/diseno1academy/Downloads/im/speed/bin/Release/net8.0-android/publish/_Microsoft.Android.Resource.Designer.dll
